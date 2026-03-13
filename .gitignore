@@ -1,0 +1,5 @@
+__pcache__/
+*.pyc
+.env
+
+enriched_pages/
